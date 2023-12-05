@@ -1,6 +1,5 @@
 ### Olá, eu sou a Thamires Lucena! 🙋‍♀️
 
-![Lucena's GitHub stats](https://github-readme-stats.vercel.app/api?username=thamireslucenasena&show_icons=true&theme=tokyonight)
 
 ### 👩🏾‍💻 Analista de Teste | 🌐 Desenvolvedora de Qualidade | 🧪 Teste de Software
 
