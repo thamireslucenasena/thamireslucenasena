@@ -3,7 +3,7 @@
 
 ### 👩🏾‍💻 Analista de Teste | 🌐 Desenvolvedora de Qualidade | 🧪 Teste de Software
 
-Bem-vindo ao meu GitHub! Sou uma apaixonada analista de teste em busca de melhorar a qualidade do software. Trabalho com testes manuais e automação para garantir produtos confiáveis.
+Bem-vindo ao meu GitHub! Sou uma analista de teste em busca de melhorar a qualidade do software. Trabalho com testes manuais e automação para garantir produtos confiáveis.
 
 ### 🚀 Habilidades
 
