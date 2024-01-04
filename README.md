@@ -18,9 +18,9 @@ Bem-vindo ao meu GitHub! Sou uma analista de teste em busca de melhorar a qualid
 - **Bacharelado em Engenharia Mecânica**, Instituto Federal do Amazonas
 
  <div>
-   <a href="https://github.com/thamires-lu-sena">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamires-lu-sena&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamires-lu-sena&layout=compact&langs_count=6&theme=ambient_gradient"/>
+   <a href="https://github.com/thamireslusena">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamireslusena&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamireslusena&layout=compact&langs_count=6&theme=ambient_gradient"/>
 </div>
 
 ### 🤝 Conecte-se Comigo
