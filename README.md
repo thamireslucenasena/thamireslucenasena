@@ -6,8 +6,8 @@ Bem-vindo ao meu GitHub! Sou uma analista de teste em busca de melhorar a qualid
 
  <div>
    <a href="https://github.com/thamireslucenasena">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamireslucenasena&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamireslucenasena&layout=compact&langs_count=6&theme=ambient_gradient"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamireslucenasena&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamireslucenasena&layout=compact&langs_count=6&theme=cobalt2"/>
 </div>
 
 
