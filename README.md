@@ -1,7 +1,12 @@
 ### Olá, eu sou a Thamires Lucena! 🙋‍♀️
 
-
 ### 👩🏾‍💻 Analista de Teste | 🌐 Desenvolvedora de Qualidade | 🧪 Teste de Software
+
+ <div>
+   <a href="https://github.com/thamireslucenasena">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamireslucenasena&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamireslucenasena&layout=compact&langs_count=6&theme=ambient_gradient"/>
+</div>
 
 Bem-vindo ao meu GitHub! Sou uma analista de teste em busca de melhorar a qualidade do software. Trabalho com testes manuais e automação para garantir produtos confiáveis.
 
@@ -16,12 +21,6 @@ Bem-vindo ao meu GitHub! Sou uma analista de teste em busca de melhorar a qualid
 ### 📚 Educação
 
 - **Bacharelado em Engenharia Mecânica**, Instituto Federal do Amazonas
-
- <div>
-   <a href="https://github.com/thamireslucenasena">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamireslucenasena&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamireslucenasena&layout=compact&langs_count=6&theme=ambient_gradient"/>
-</div>
 
 ### 🤝 Conecte-se Comigo
 
